@@ -931,10 +931,10 @@
   dependencies:
     markdown-it-container "^2.0.0"
 
-"@vuepress/plugin-google-analytics@1.0.0-alpha.44":
-  version "1.0.0-alpha.44"
-  resolved "https://registry.yarnpkg.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-1.0.0-alpha.44.tgz#5fa4edc341cffc634804c6f72db076fd0bffc3c0"
-  integrity sha512-oBFXHlO5I3M0jGg/Ob8WsVY1g+4Xcm6AT70m89/RB3GjHhPHMDF0bRCyoLOzLzVnWUEqOH/0HbDDK0MnGFGB8w==
+"@vuepress/plugin-google-analytics@1.5.1":
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/@vuepress/plugin-google-analytics/-/plugin-google-analytics-1.5.1.tgz#56e52ade7264e3bb5eaa6efabb9af86b81fe6307"
+  integrity sha512-mbOUu07aXEVbuzlcheZkVzLpnveKciQ1iuYXuWa26W141kKwdIFvd4JQV7emWpOG8KMMI9/GL3Lej7KRTAa41w==
 
 "@vuepress/plugin-last-updated@^1.0.0-alpha.44":
   version "1.0.0-alpha.44"
